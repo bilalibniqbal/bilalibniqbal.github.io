@@ -1,0 +1,101 @@
+@media screen and (max-width : 600px) {
+    .card-body h4, h5 {
+        font-size: 10px;
+    }
+
+    .card-body h6 {
+        font-size: 8px;
+    }
+
+    .card-body p {
+        font-size: 8px;
+    }
+
+    .ref1mail {
+        font-size: 7px;
+    }
+
+    /* .sidebar header .image img {
+        width: 70px;
+        border-radius: 3px;
+
+    } */
+
+    .name {
+        font-size: 14px;
+    }
+
+    .profession {
+        font-size: 10px;
+    }
+
+
+    /* .sidebar li {
+        height: 30px;
+        margin-top: 0px;
+      } */
+
+    .mode i {
+        padding-top: 8px;
+    }
+
+    /* .mode .mode-text {
+        font-size: 14px;
+    }
+
+    .menu-links li a .nav-text {
+        font-size: 14px;
+    } */
+
+    #sidebar-btnlink li img {
+        /* height: 25px;
+        width: 25px; */
+    }
+
+    /* #sidebar-btnlink li .githubbtn {
+      } */
+
+    .col .item .level-title, .col-6 .item .level-title {
+        font-size: 12px;
+    }
+}
+
+
+
+/* @media screen and ((min-width : 420px) and (max-width : 680px)) {
+    .card-body h4 {
+            font-size: 10vw;
+          }
+  }
+  @media screen and ((min-width : 620px) and (max-width : 800px)) {
+    .card-body h4 {
+        font-size: 20vw;
+      }
+  } */
+
+@media screen and (max-height : 5000px) {
+    .sidebar li {
+        height: 6vh;
+        margin-top: 0;
+    }
+
+    .mode .mode-text {
+        font-size: 2.5vh;
+    }
+
+    .menu-links li a .nav-text {
+        font-size: 2.5vh;
+    }
+
+    .sidebar .menu {
+        margin-top: 3vh;
+    }
+
+    .sidebar header .image img {
+        width: 15vh;
+        border-radius: 3px;
+
+    }
+
+}
+
