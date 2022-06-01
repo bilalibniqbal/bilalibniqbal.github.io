@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 62.349083 60.382805"
+   version="1.1"
+   sodipodi:docname="review.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   width="62.349083"
+   height="60.382805"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.4254375"
+     inkscape:cx="54.683858"
+     inkscape:cy="48.69575"
+     inkscape:window-width="1600"
+     inkscape:window-height="868"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g887"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <link
+     type="text/css"
+     rel="stylesheet"
+     id="dark-mode-custom-link" />
+  <link
+     type="text/css"
+     rel="stylesheet"
+     id="dark-mode-general-link" />
+  <style
+     lang="en"
+     type="text/css"
+     id="dark-mode-custom-style" />
+  <style
+     lang="en"
+     type="text/css"
+     id="dark-mode-native-style" />
+  <svg:defs
+     id="defs4">
+    <svg:style
+       id="style2">.cls-1,.cls-2,.cls-3{fill:none;stroke-linecap:round;stroke-miterlimit:10;}.cls-1{stroke:#758491;}.cls-1,.cls-2{stroke-width:0.75px;}.cls-2,.cls-3{stroke:#515050;}</svg:style>
+  </svg:defs>
+  <svg:title
+     id="title6">CO_OV</svg:title>
+  <svg:g
+     id="g887"
+     transform="translate(15.107295,16.02899)">
+    <svg:g
+       id="g971">
+      <svg:g
+         id="g942"
+         transform="translate(-0.95794339,-1.0444531)">
+        <svg:path
+           class="cls-1"
+           d="M 11.267004,39.918666 H -0.81255965 A 7.8571898,7.8571898 0 0 1 -8.6697495,32.056002 l 0.029196,-33.6330063 a 7.8553652,7.8553652 0 0 1 7.83346855,-7.8462417 l 24.70288795,-0.074813 8.087103,8.0871031 -0.04197,4.6110355"
+           id="path8"
+           style="stroke-width:10.9592;stroke-miterlimit:10;stroke-dasharray:none" />
+        <svg:polyline
+           class="cls-1"
+           points="21.015 7.506 17.633 7.506 17.633 4.043"
+           id="polyline10"
+           style="stroke-width:3.003;stroke-miterlimit:10;stroke-dasharray:none"
+           transform="matrix(1.4039626,0,0,1.4039626,-8.0275609,-5.5472873)" />
+        <svg:line
+           class="cls-2"
+           x1="10.604426"
+           y1="13.73311"
+           x2="5.1494269"
+           y2="13.73311"
+           id="line12"
+           style="stroke-width:6.006;stroke-miterlimit:10;stroke-dasharray:none" />
+        <svg:line
+           class="cls-2"
+           x1="8.7834263"
+           y1="20.663109"
+           x2="5.1494269"
+           y2="20.663109"
+           id="line14"
+           style="stroke-width:6.006;stroke-miterlimit:10;stroke-dasharray:none" />
+        <svg:line
+           class="cls-2"
+           x1="8.2634268"
+           y1="27.666109"
+           x2="5.194427"
+           y2="27.666109"
+           id="line16"
+           style="stroke-width:6.006;stroke-miterlimit:10;stroke-dasharray:none" />
+        <svg:line
+           class="cls-2"
+           x1="8.1574268"
+           y1="6.5961094"
+           x2="5.1534271"
+           y2="6.5961094"
+           id="line18"
+           style="stroke-width:6.006;stroke-miterlimit:10;stroke-dasharray:none" />
+        <svg:circle
+           class="cls-1"
+           cx="29.780554"
+           cy="26.078802"
+           id="circle20"
+           style="stroke-width:7.58697;stroke-miterlimit:10;stroke-dasharray:none"
+           r="12.945589" />
+        <svg:line
+           class="cls-1"
+           x1="39.129726"
+           y1="35.427975"
+           x2="44.406246"
+           y2="40.513744"
+           id="line22"
+           style="stroke-width:7.58697;stroke-miterlimit:10;stroke-dasharray:none" />
+        <svg:polyline
+           class="cls-3"
+           points="19.602 22.536 21.698 24.632 26.331 19.999"
+           id="polyline24"
+           style="stroke-width:4.004;stroke-miterlimit:10;stroke-dasharray:none"
+           transform="matrix(1.4039626,0,0,1.4039626,-2.5994575,-4.5915935)" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <svg:metadata
+     id="metadata846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>CO_OV</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+</svg:svg>
