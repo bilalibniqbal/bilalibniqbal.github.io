@@ -1559,3 +1559,53 @@ body[data-theme="dark"] .gototop-Btn {
   opacity: 1;
   transform: none;
 }
+
+
+
+/* CSS - Vertical line between bullets in an unordered list */
+.list-wrapper {
+    position:relative;
+  }
+  .list-item-wrapper {
+    margin-top:10px;
+    position:relative;
+  }
+  .list-bullet {
+    float:left;
+    margin-right:20px;
+    background:#FF4949;
+    height:30px;
+    width:30px;
+    line-height:30px;
+    border-radius:100px;
+    font-weight:700;
+    color:rgb(10, 10, 10);
+    text-align:center;
+  }
+  .list-item {
+    display:table-row;
+    vertical-align:middle;
+  }
+  .list-title {
+      font-weight:700;
+  }
+  .list-text {
+      font-weight:400;
+  }
+  .red-line {
+    background:#FF4949;
+    /* z-index:-1; */
+    width:1px;
+    height:50%;
+    position:absolute;
+    left:15px;
+  }
+  .white-line {
+    background:#000000;
+    z-index:-1;
+    top:0px;
+    width:1px;
+    height:100%;
+    position:absolute;
+    left:15px;
+  }
