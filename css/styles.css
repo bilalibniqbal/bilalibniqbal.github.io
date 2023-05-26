@@ -680,6 +680,13 @@ body[data-theme="dark"] .dark-mode-switch .form-check-input:focus {
   border-color: #54ba4e;
 }
 
+body[data-theme="dark"] .sidebar-btns {
+    background: #2f2f2f;
+    fill: #2f2f2f;
+    color: #2f2f2f;
+
+}
+
 body[data-theme="dark"] .header {
   /* background: #1e2124;
   border-top-color: #1e2124; */
